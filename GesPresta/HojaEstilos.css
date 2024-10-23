@@ -1,0 +1,142 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    font: Latin Modern Roman, sans-serif;
+}
+
+header {
+    border-bottom: 3px solid black;
+}
+
+header nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+
+header nav ul li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: ease-in-out 0.5s;
+}
+
+header nav ul li a:hover {
+    background-color: #111;
+    transition: ease-in-out 0.5s;
+    transform: scale(1.15);
+}
+
+header .titulos {
+    padding: 20px;
+    text-align: center;
+}
+
+header h2 {
+    font-size: 3rem;
+}
+
+header h4 {
+    font-size: 1rem;
+}
+
+.cuerpo p {
+    text-align: justify;
+    text-justify: inter-word;
+    margin: 3% 20%;
+}
+
+.tituloCuerpo h3 {
+    padding: 20px;
+    text-align: center;
+    font-size: 2rem;
+}
+
+.cuerpo{
+    margin: 3% 20%;
+}
+
+.cuerpo ul {
+    list-style-type: none;
+}
+
+.cuerpo ul li {
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    align-items:center;
+}
+
+.cuerpo .introTexto {
+    flex: 1;
+    margin: 0 5px;
+    border-radius: 40px;
+    padding: 5px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    width: 20rem;
+}
+        
+.cuerpo .introTexto:focus {
+    background-color: #ffc2c2;
+    border: 4px solid red;
+}
+    .cuerpo .opcionesIntro{
+    margin: 0 10px;
+}
+
+.cuerpo .opcionesIntro input {
+    margin: 0 10px;
+}
+
+.cuerpo .etiqueta {
+    flex: 1;
+    margin: 5px;
+}
+
+.cuerpo li .boton {
+    background-color: #333;
+    color: white;
+    padding: 3px;
+    width: 9rem;
+    border-radius: 40px;
+    transition: ease-in-out 0.5s;
+}
+
+.cuerpo li .boton:hover {
+    background-color: #111;
+    transition: ease-in-out 0.5s;
+    transform: scale(1.15);
+}
+
+
+
+
+@media only screen and (min-width: 992px) {
+    header nav ul {
+        display: flex;
+        justify-content: space-evenly;
+    }
+
+    .cuerpo ul li {
+        flex-direction: row;
+    }
+
+    .cuerpo ul li:last-child {
+        flex-direction: column;
+    }
+
+    .cuerpo .etiqueta {
+        text-align: center;
+    }
+
+
+}
+
+
+
+
