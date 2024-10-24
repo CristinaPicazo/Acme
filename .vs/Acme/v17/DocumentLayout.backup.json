@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -46,8 +46,7 @@
               "RelativeToolTip": "GesPresta\\Prestaciones.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-20T08:44:26.003Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-20T08:44:26.003Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "GesPresta\\Empleados.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-16T11:41:35.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T11:41:35.148Z"
             },
             {
               "$type": "Document",
@@ -70,7 +68,7 @@
               "RelativeDocumentMoniker": "GesPresta\\HojaEstilos.css",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\HojaEstilos.css",
               "RelativeToolTip": "GesPresta\\HojaEstilos.css",
-              "ViewState": "AgIAAHYAAAAAAAAAAIAxwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAHYAAAAAAAAAAIAxwIYAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-10-15T16:10:33.573Z",
               "EditorCaption": ""
@@ -85,8 +83,7 @@
               "RelativeToolTip": "GesPresta\\Cabecera.ascx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
-              "WhenOpened": "2024-10-15T15:43:50.307Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:43:50.307Z"
             },
             {
               "$type": "Document",
@@ -98,8 +95,7 @@
               "RelativeToolTip": "GesPresta\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-10-15T15:51:54.514Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:51:54.514Z"
             }
           ]
         }
