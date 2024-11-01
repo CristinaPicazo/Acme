@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Prestaciones.aspx.cs" Inherits="GesPresta.Prestaciones" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Prestaciones1.aspx.cs" Inherits="GesPresta.Prestaciones1" %>
 
 <%@ Register Src="Cabecera.ascx" TagName="Cabecera" TagPrefix="uc1" %>
 
@@ -7,7 +7,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head runat="server">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-    <title>Prestaciones</title>
+    <title>Prestaciones1</title>
     <link rel="stylesheet" href="HojaEstilos.css" />
 </head>
 <body>
@@ -45,7 +45,7 @@
                 </asp:DropDownList>
             </div>
             <div class="secciones">
-                <asp:Button ID="cmdEnviar" runat="server" Text="Enviar" CssClass="boton" />
+                <asp:Button ID="cmdEnviar" runat="server" Text="Enviar" CssClass="boton" PostBackUrl="~/Prestaciones1Respuesta.aspx" />
             </div>
         </div>
     </form>
