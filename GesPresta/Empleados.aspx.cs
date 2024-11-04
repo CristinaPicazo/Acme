@@ -11,6 +11,8 @@ namespace GesPresta
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+            Trace.Write("Evento", "Entrando en Page_Load");
+
             txtCodEmp.Focus();
 
             //Error de programación (txtNifEmp.Text = 11111111)
@@ -20,6 +22,9 @@ namespace GesPresta
             //int a = 3; 
             //int b = 0;
             //int c = a / b;
+
+            Trace.Warn("Asignación", "Cambiado el valor de txtNifEmp a: " + txtNifEmp.Text);
+            Trace.Write("Evento", "Saliendo de Page_Load");
 
         }
     }
