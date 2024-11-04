@@ -12,6 +12,15 @@ namespace GesPresta
         protected void Page_Load(object sender, EventArgs e)
         {
             txtCodEmp.Focus();
+
+            //Error de programación (txtNifEmp.Text = 11111111)
+            txtNifEmp.Text = "11111111"; // Establece un valor por defecto para el campo
+
+            //Error en tiempo de ejecución
+            //int a = 3; 
+            //int b = 0;
+            //int c = a / b;
+
         }
     }
 }
