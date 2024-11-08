@@ -15,15 +15,19 @@ namespace GesPresta
 
             txtCodEmp.Focus();
 
-            //Error de programación (txtNifEmp.Text = 11111111)
-            txtNifEmp.Text = "11111111"; // Establece un valor por defecto para el campo
+            if(Trace.IsEnabled)
+            {
+                //Error de programación (txtNifEmp.Text = 11111111)
+                txtNifEmp.Text = "11111111"; // Establece un valor por defecto para el campo
 
-            //Error en tiempo de ejecución
-            //int a = 3; 
-            //int b = 0;
-            //int c = a / b;
+                //Error en tiempo de ejecución
+                //int a = 3; 
+                //int b = 0;
+                //int c = a / b;
 
-            Trace.Warn("Asignación", "Cambiado el valor de txtNifEmp a: " + txtNifEmp.Text);
+                Trace.Warn("Asignación", "Cambiado el valor de txtNifEmp a: " + txtNifEmp.Text);
+            }
+            
             Trace.Write("Evento", "Saliendo de Page_Load");
 
         }

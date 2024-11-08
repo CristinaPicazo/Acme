@@ -22,18 +22,30 @@
             <div class="secciones">
                 <asp:Label ID="Label1" runat="server" Text="Código Prestación" CssClass="etiqueta"></asp:Label>
                 <asp:TextBox ID="txtCodPre" runat="server" CssClass="introTexto"></asp:TextBox>
-            </div>
+                <br />
+                <asp:RequiredFieldValidator ID="rqdTxtCodPre" runat="server" ControlToValidate="txtCodPre" ErrorMessage="El Código De Prestación es obligatorio" ForeColor="Red" CssClass="mensajeError">
+                </asp:RequiredFieldValidator>
+                <br />
+                <asp:RegularExpressionValidator ID="regTxtCodPre" runat="server" ControlToValidate="txtCodPre" ErrorMessage="El formato de los datos a introducir debe ser: 111-111-111" ForeColor="Green" ValidationExpression="\d{3}-\d{3}-\d{3}"></asp:RegularExpressionValidator>
+              </div>
             <div class="secciones">
                 <asp:Label ID="Label2" runat="server" Text="Descripción" CssClass="etiqueta"></asp:Label>
                 <asp:TextBox ID="txtDesPre" runat="server" CssClass="introTexto"></asp:TextBox>
+                
             </div>
             <div class="secciones">
                 <asp:Label ID="Label3" runat="server" Text="Importe Fijo" CssClass="etiqueta"></asp:Label>
                 <asp:TextBox ID="txtImpPre" runat="server" CssClass="introTexto"></asp:TextBox>
+                <br />
+                <asp:RequiredFieldValidator ID="rqdTxtImpPre" runat="server" ControlToValidate="txtImpPre" ErrorMessage="El Importe Fijo es obligatorio" ForeColor="Red" CssClass="mensajeError"></asp:RequiredFieldValidator>
+                <asp:RangeValidator ID="rngtxtImpPre" runat="server" ErrorMessage="El valor introducido debe estar comprendido entre 0 y 500" ControlToValidate="txtImpPre" ForeColor="Red" MaximumValue="500" MinimumValue="0" Type="Double" CssClass="mensajeError"></asp:RangeValidator>
             </div>
             <div class="secciones">
                 <asp:Label ID="Label4" runat="server" Text="Porcentaje del Importe" CssClass="etiqueta">
                 </asp:Label><asp:TextBox ID="txtPorPre" runat="server" CssClass="introTexto"></asp:TextBox>
+                <br />
+                <asp:RequiredFieldValidator ID="rqdTxtPorPre" runat="server" ControlToValidate="txtPorPre" ErrorMessage="El Porcentaje del Importe es obligatorio" ForeColor="Red" CssClass="mensajeError"></asp:RequiredFieldValidator>
+                <asp:RangeValidator ID="rngtxtPorPre" runat="server" ErrorMessage="El valor introducido debe estar comprendido entre el 0,00 y el 15,00 %" ControlToValidate="txtPorPre" ForeColor="Red" MaximumValue="15" MinimumValue="0" Type="Double" CssClass="mensajeError"></asp:RangeValidator>
             </div>
             <div class="secciones">
                 <asp:Label ID="Label5" runat="server" Text="Tipo de Prestación" CssClass="etiqueta"></asp:Label>

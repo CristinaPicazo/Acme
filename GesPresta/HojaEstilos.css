@@ -188,6 +188,14 @@ header .titulos {
         margin: 10px 0;
     }
 
+    .mensajeError{
+        display:none;
+    }
+
+    .cajaValidacion {
+        text-align: center;
+    }
+
 }
 
 
