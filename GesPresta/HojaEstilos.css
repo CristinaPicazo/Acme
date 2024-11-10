@@ -188,8 +188,10 @@ header .titulos {
         margin: 10px 0;
     }
 
-    .mensajeError{
-        display:none;
+    .mensajeError {
+        display: flex;
+        flex-direction: column;
+        align-self: center;
     }
 
     .cajaValidacion {

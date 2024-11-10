@@ -3,20 +3,36 @@
   "WorkspaceRootPath": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\prestaciones2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestaciones2.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\prestaciones2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestaciones2.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\prestacionesbuscar.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestacionesbuscar.ascx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\prestacionesbuscar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestacionesbuscar.ascx||{F390D63C-F7D8-4E74-AA04-57C1ECF53D4D}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\hojaestilos.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\empleados.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\prestaciones.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\empleados.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -32,9 +48,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\gespresta\\empleadoscalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|solutionrelative:gespresta\\empleadoscalendar.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AD4EAC7-466A-478C-8A79-7564A94424A9}|GesPresta\\GesPresta.csproj|e:\\daw\\# 2 daw 24-25\\dwes desarrollo web en entorno servidor\\projects\\acme\\gespresta\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|909d16b3-c8e8-43d1-a2b8-26ea0d4b6b57"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,24 +57,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prestaciones2.aspx.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Prestaciones2.aspx.cs",
+              "RelativeDocumentMoniker": "GesPresta\\Prestaciones2.aspx.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Prestaciones2.aspx.cs",
+              "RelativeToolTip": "GesPresta\\Prestaciones2.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:50:52.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Prestaciones2.aspx",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Prestaciones2.aspx",
+              "RelativeDocumentMoniker": "GesPresta\\Prestaciones2.aspx",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Prestaciones2.aspx",
+              "RelativeToolTip": "GesPresta\\Prestaciones2.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-11-10T18:50:37.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "prestacionesBuscar.ascx.cs",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\prestacionesBuscar.ascx.cs",
+              "RelativeDocumentMoniker": "GesPresta\\prestacionesBuscar.ascx.cs",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\prestacionesBuscar.ascx.cs",
+              "RelativeToolTip": "GesPresta\\prestacionesBuscar.ascx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-10T18:36:50.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "prestacionesBuscar.ascx",
+              "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\prestacionesBuscar.ascx",
+              "RelativeDocumentMoniker": "GesPresta\\prestacionesBuscar.ascx",
+              "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\prestacionesBuscar.ascx",
+              "RelativeToolTip": "GesPresta\\prestacionesBuscar.ascx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2024-11-10T18:30:38.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "HojaEstilos.css",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\HojaEstilos.css",
               "RelativeDocumentMoniker": "GesPresta\\HojaEstilos.css",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\HojaEstilos.css",
               "RelativeToolTip": "GesPresta\\HojaEstilos.css",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAAALkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAKsAAAAAAAAAAAAAAMEAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-11-08T14:55:53.308Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Prestaciones.aspx",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Prestaciones.aspx",
               "RelativeDocumentMoniker": "GesPresta\\Prestaciones.aspx",
@@ -74,20 +139,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Empleados.aspx.cs",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Empleados.aspx.cs",
               "RelativeDocumentMoniker": "GesPresta\\Empleados.aspx.cs",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Empleados.aspx.cs",
               "RelativeToolTip": "GesPresta\\Empleados.aspx.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAcwBQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-04T22:30:29.84Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Empleados.aspx",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Empleados.aspx",
               "RelativeDocumentMoniker": "GesPresta\\Empleados.aspx",
@@ -100,19 +165,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "GesPresta",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\GesPresta.csproj",
               "RelativeDocumentMoniker": "GesPresta\\GesPresta.csproj",
               "ToolTip": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\GesPresta.csproj",
               "RelativeToolTip": "GesPresta\\GesPresta.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-04T22:29:13.225Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-04T22:29:13.225Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Web.Debug.config",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Web.Debug.config",
               "RelativeDocumentMoniker": "GesPresta\\Web.Debug.config",
@@ -125,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Web.config",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\Web.config",
               "RelativeDocumentMoniker": "GesPresta\\Web.config",
@@ -138,7 +202,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "EmpleadosCalendar.aspx",
               "DocumentMoniker": "E:\\DAW\\# 2 DAW 24-25\\DWES Desarrollo Web en Entorno Servidor\\Projects\\Acme\\GesPresta\\EmpleadosCalendar.aspx",
               "RelativeDocumentMoniker": "GesPresta\\EmpleadosCalendar.aspx",

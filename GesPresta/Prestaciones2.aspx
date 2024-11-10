@@ -1,6 +1,8 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Prestaciones.aspx.cs" Inherits="GesPresta.Prestaciones" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="Prestaciones2.aspx.cs" Inherits="GesPresta.Prestaciones2" %>
 
 <%@ Register Src="Cabecera.ascx" TagName="Cabecera" TagPrefix="uc1" %>
+
+<%@ Register src="prestacionesBuscar.ascx" tagname="prestacionesBuscar" tagprefix="uc2" %>
 
 <!DOCTYPE html>
 
@@ -22,6 +24,11 @@
             <div class="secciones">
                 <asp:Label ID="Label1" runat="server" Text="Código Prestación" CssClass="etiqueta"></asp:Label>
                 <asp:TextBox ID="txtCodPre" runat="server" CssClass="introTexto"></asp:TextBox>
+                <asp:Button ID="btnVerPrestaciones" runat="server" Text="Ver prestaciones" CssClass="boton" CausesValidation="False" OnClick="btnVerPrestaciones_Click" />
+             </div>
+            <div class="secciones prestaciones">                
+                <uc2:prestacionesBuscar ID="prestacionesBuscar1" runat="server" Visible="False" />
+                <asp:Button ID="btnSeleccionar" runat="server" Text="Seleccionar" CssClass="boton" CausesValidation="False" Visible="False" OnClick="btnSeleccionar_Click"/>
              </div>
             <div class="secciones mensajeError">
                 <asp:RequiredFieldValidator ID="rqdTxtCodPre" runat="server" ControlToValidate="txtCodPre" ErrorMessage="El Código De Prestación es obligatorio" ForeColor="Red" CssClass="mensajeError">
