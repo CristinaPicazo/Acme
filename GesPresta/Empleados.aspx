@@ -27,25 +27,30 @@
                     <br />
                     <asp:RegularExpressionValidator ID="regTxtCodEmp" runat="server" ControlToValidate="txtCodEmp" ErrorMessage="El formato de los datos a introducir debe ser: A11111" ForeColor="Green" ValidationExpression="\w\d{5}">*</asp:RegularExpressionValidator>
               </div>
-              <div class="secciones">                    <asp:Label ID="Label2" runat="server" Text="NIF" CssClass="etiqueta"></asp:Label>
+              <div class="secciones">                    
+                  <asp:Label ID="Label2" runat="server" Text="NIF" CssClass="etiqueta"></asp:Label>
                     <asp:TextBox ID="txtNifEmp" runat="server" CssClass="introTexto"></asp:TextBox>
                   <br />
                   <asp:RequiredFieldValidator ID="rqdTxtNifEmp" runat="server" ErrorMessage="El NIF de Empleado es obligatorio" ControlToValidate="txtNifEmp" ForeColor="Red">*</asp:RequiredFieldValidator>
                   <br />
                   <asp:RegularExpressionValidator ID="regTxtNifEmp" runat="server" ControlToValidate="txtNifEmp" ErrorMessage="El formato de los datos a introducir debe ser: 11111111-A" ForeColor="Green" ValidationExpression="\d{8}-\w">*</asp:RegularExpressionValidator>
               </div>
-              <div class="secciones">                    <asp:Label ID="Label3" runat="server" Text="Apellidos y Nombre" CssClass="etiqueta"></asp:Label>
+              <div class="secciones">                    
+                  <asp:Label ID="Label3" runat="server" Text="Apellidos y Nombre" CssClass="etiqueta"></asp:Label>
                     <asp:TextBox ID="txtNomEmp" runat="server" CssClass="introTexto"></asp:TextBox>
                   <br />
                   <asp:RequiredFieldValidator ID="rqdTxtNomEmp" runat="server" ErrorMessage="El Nombre y Apelidos son obligatorios" ControlToValidate="txtNomEmp" ForeColor="Red">*</asp:RequiredFieldValidator>
               </div>
-              <div class="secciones">                    <asp:Label ID="Label4" runat="server" Text="Dirección" CssClass="etiqueta"></asp:Label>
+              <div class="secciones">                    
+                  <asp:Label ID="Label4" runat="server" Text="Dirección" CssClass="etiqueta"></asp:Label>
                     <asp:TextBox ID="txtDirEmp" runat="server" CssClass="introTexto"></asp:TextBox>
               </div>
-              <div class="secciones">                    <asp:Label ID="Label5" runat="server" Text="Ciudad" CssClass="etiqueta"></asp:Label>
+              <div class="secciones">                    
+                  <asp:Label ID="Label5" runat="server" Text="Ciudad" CssClass="etiqueta"></asp:Label>
                     <asp:TextBox ID="txtCiuEmp" runat="server" CssClass="introTexto"></asp:TextBox>
               </div>
-              <div class="secciones">                    <asp:Label ID="Label6" runat="server" Text="Teléfonos" CssClass="etiqueta"></asp:Label>
+              <div class="secciones">                    
+                  <asp:Label ID="Label6" runat="server" Text="Teléfonos" CssClass="etiqueta"></asp:Label>
                     <asp:TextBox ID="txtTelEmp" runat="server" CssClass="introTexto"></asp:TextBox>
                   <br />
                   <asp:RequiredFieldValidator ID="rqdTxtTelEmp" runat="server" ErrorMessage="El Teléfono es obligatorio" ControlToValidate="txtTelEmp" ForeColor="Red">*</asp:RequiredFieldValidator>
