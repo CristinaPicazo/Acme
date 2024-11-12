@@ -24,9 +24,9 @@
             <div class="secciones">
                 <asp:Label ID="Label1" runat="server" Text="Código Prestación" CssClass="etiqueta"></asp:Label>
                 <asp:TextBox ID="txtCodPre" runat="server" CssClass="introTexto"></asp:TextBox>
-                <asp:Button ID="btnVerPrestaciones" runat="server" Text="Ver prestaciones" CssClass="boton" CausesValidation="False" OnClick="btnVerPrestaciones_Click" />
              </div>
             <div class="secciones prestaciones">                
+                <asp:Button ID="btnVerPrestaciones" runat="server" Text="Ver prestaciones" CssClass="boton" CausesValidation="False" OnClick="btnVerPrestaciones_Click" />
                 <uc2:prestacionesBuscar ID="prestacionesBuscar1" runat="server" Visible="False" />
                 <asp:Button ID="btnSeleccionar" runat="server" Text="Seleccionar" CssClass="boton" CausesValidation="False" Visible="False" OnClick="btnSeleccionar_Click"/>
              </div>
